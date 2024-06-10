@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "c7ee40dd-8dab-4ecb-9327-eba9647fdac2",
+    "name": "Armando Hoeger",
+    "phone": "1-673-918-7998",
+    "email": "Durward_Douglas@hotmail.com",
+    "job": "Dynamic Operations Developer"
+  },
+  {
+    "id": "4d44083c-f54a-43ff-a999-b27b1daa244f",
+    "name": "Willard Wisoky",
+    "phone": "541.747.4149",
+    "email": "Johanna_Blick52@gmail.com",
+    "job": "Global Response Technician"
+  },
+  {
+    "id": "4d37fe38-79c5-401e-9195-6450994bc431",
+    "name": "Jeffery Zulauf",
+    "phone": "841-442-9025 x629",
+    "email": "Louisa51@yahoo.com",
+    "job": "District Paradigm Liaison"
+  },
+  {
+    "id": "8de74db8-3e46-4a40-ad2a-c30866ff2623",
+    "name": "Michele Leuschke",
+    "phone": "773.724.3075 x27246",
+    "email": "Raina_Harber10@gmail.com",
+    "job": "Corporate Integration Specialist"
+  }
+]
